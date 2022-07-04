@@ -1,2 +1,0 @@
-# pricerecorder
-git upload
